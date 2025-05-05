@@ -1,0 +1,15 @@
+/* src/index.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+  
